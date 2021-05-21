@@ -1,0 +1,1433 @@
+[
+    {
+        "country": "Algeria",
+        "abbreviation": "DZ",
+        "continent": "Africa",
+        "region": "Northern Africa",
+        "city": "Alger",
+        "name": "Algerian Dinar",
+        "code": "DZD"
+    },
+    {
+        "country": "Andorra",
+        "abbreviation": "AD",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Andorra la Vella",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Angola",
+        "abbreviation": "AO",
+        "continent": "Africa",
+        "region": "Central Africa",
+        "city": "Luanda",
+        "name": "Angolan Kwanza",
+        "code": "AOA"
+    },
+    {
+        "country": "Argentina",
+        "abbreviation": "AR",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Buenos Aires",
+        "name": "Argentine Peso",
+        "code": "ARS"
+    },
+    {
+        "country": "Armenia",
+        "abbreviation": "AM",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Yerevan",
+        "name": "Armenian Dram",
+        "code": "AMD"
+    },
+    {
+        "country": "Aruba",
+        "abbreviation": "AW",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "Oranjestad",
+        "name": "Aruban Guilder",
+        "code": "AWG"
+    },
+    {
+        "country": "Australia",
+        "abbreviation": "AU",
+        "continent": "Oceania",
+        "region": "Australia and New Zealand",
+        "city": "Canberra",
+        "name": "Australian Dollar",
+        "code": "AUD"
+    },
+    {
+        "country": "Austria",
+        "abbreviation": "AT",
+        "continent": "Europe",
+        "region": "Western Europe",
+        "city": "Wien",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Azerbaijan",
+        "abbreviation": "AZ",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Baku",
+        "name": "Azerbaijan New Manat",
+        "code": "AZN"
+    },
+    {
+        "country": "Bahamas",
+        "abbreviation": "BS",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "Nassau",
+        "name": "Bahamian Dollar",
+        "code": "BSD"
+    },
+    {
+        "country": "Bahrain",
+        "abbreviation": "BH",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "al-Manama",
+        "name": "Bahraini Dinar",
+        "code": "BHD"
+    },
+    {
+        "country": "Bangladesh",
+        "abbreviation": "BD",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Dhaka",
+        "name": "Bangladeshi Taka",
+        "code": "BDT"
+    },
+    {
+        "country": "Barbados",
+        "abbreviation": "BB",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "Bridgetown",
+        "name": "Barbados Dollar",
+        "code": "BBD"
+    },
+    {
+        "country": "Belarus",
+        "abbreviation": "BY",
+        "continent": "Europe",
+        "region": "Eastern Europe",
+        "city": "Minsk",
+        "name": "Belarussian Ruble",
+        "code": "BYR"
+    },
+    {
+        "country": "Belgium",
+        "abbreviation": "BE",
+        "continent": "Europe",
+        "region": "Western Europe",
+        "city": "Bruxelles [Brussel]",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Belize",
+        "abbreviation": "BZ",
+        "continent": "North America",
+        "region": "Central America",
+        "city": "Belmopan",
+        "name": "Belize Dollar",
+        "code": "BZD"
+    },
+    {
+        "country": "Benin",
+        "abbreviation": "BJ",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Porto-Novo",
+        "name": "CFA Franc BCEAO",
+        "code": "XOF"
+    },
+    {
+        "country": "Bermuda",
+        "abbreviation": "BM",
+        "continent": "North America",
+        "region": "North America",
+        "city": "Hamilton",
+        "name": "Bermudian Dollar",
+        "code": "BMD"
+    },
+    {
+        "country": "Bhutan",
+        "abbreviation": "BT",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Thimphu",
+        "name": "Bhutan Ngultrum",
+        "code": "BTN"
+    },
+    {
+        "country": "Bolivia",
+        "abbreviation": "BO",
+        "continent": "South America",
+        "region": "South America",
+        "city": "La Paz",
+        "name": "Boliviano",
+        "code": "BOB"
+    },
+    {
+        "country": "Botswana",
+        "abbreviation": "BW",
+        "continent": "Africa",
+        "region": "Southern Africa",
+        "city": "Gaborone",
+        "name": "Botswana Pula",
+        "code": "BWP"
+    },
+    {
+        "country": "Brazil",
+        "abbreviation": "BR",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Bras",
+        "name": "Brazilian Real",
+        "code": "BRL"
+    },
+    {
+        "country": "Bulgaria",
+        "abbreviation": "BG",
+        "continent": "Europe",
+        "region": "Eastern Europe",
+        "city": "Sofia",
+        "name": "Bulgarian Lev",
+        "code": "BGN"
+    },
+    {
+        "country": "Burundi",
+        "abbreviation": "BI",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Bujumbura",
+        "name": "Burundi Franc",
+        "code": "BIF"
+    },
+    {
+        "country": "Cambodia",
+        "abbreviation": "KH",
+        "continent": "Asia",
+        "region": "Southeast Asia",
+        "city": "Phnom Penh",
+        "name": "Kampuchean Riel",
+        "code": "KHR"
+    },
+    {
+        "country": "Cameroon",
+        "abbreviation": "CM",
+        "continent": "Africa",
+        "region": "Central Africa",
+        "city": "Yaound",
+        "name": "CFA Franc BEAC",
+        "code": "XAF"
+    },
+    {
+        "country": "Canada",
+        "abbreviation": "CA",
+        "continent": "North America",
+        "region": "North America",
+        "city": "Ottawa",
+        "name": "Canadian Dollar",
+        "code": "CAD"
+    },
+    {
+        "country": "Chile",
+        "abbreviation": "CL",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Santiago de Chile",
+        "name": "Chilean Peso",
+        "code": "CLP"
+    },
+    {
+        "country": "China",
+        "abbreviation": "CN",
+        "continent": "Asia",
+        "region": "Eastern Asia",
+        "city": "Peking",
+        "name": "Yuan Renminbi",
+        "code": "CNY"
+    },
+    {
+        "country": "Colombia",
+        "abbreviation": "CO",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Santaf",
+        "name": "Colombian Peso",
+        "code": "COP"
+    },
+    {
+        "country": "Comoros",
+        "abbreviation": "KM",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Moroni",
+        "name": "Comoros Franc",
+        "code": "KMF"
+    },
+    {
+        "country": "Congo",
+        "abbreviation": "CG",
+        "continent": "Africa",
+        "region": "Central Africa",
+        "city": "Brazzaville",
+        "name": "CFA Franc BEAC",
+        "code": "XAF"
+    },
+    {
+        "country": "Croatia",
+        "abbreviation": "HR",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Zagreb",
+        "name": "Croatian Kuna",
+        "code": "HRK"
+    },
+    {
+        "country": "Cuba",
+        "abbreviation": "CU",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "La Habana",
+        "name": "Cuban Peso",
+        "code": "CUP"
+    },
+    {
+        "country": "Cyprus",
+        "abbreviation": "CY",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Nicosia",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Denmark",
+        "abbreviation": "DK",
+        "continent": "Europe",
+        "region": "Nordic Countries",
+        "city": "Copenhagen",
+        "name": "Danish Krone",
+        "code": "DKK"
+    },
+    {
+        "country": "Djibouti",
+        "abbreviation": "DJ",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Djibouti",
+        "name": "Djibouti Franc",
+        "code": "DJF"
+    },
+    {
+        "country": "Dominica",
+        "abbreviation": "DM",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "Roseau",
+        "name": "East Caribbean Dollar",
+        "code": "XCD"
+    },
+    {
+        "country": "Dominican Republic",
+        "abbreviation": "DO",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "Santo Domingo",
+        "name": "Dominican Peso",
+        "code": "DOP"
+    },
+    {
+        "country": "Ecuador",
+        "abbreviation": "EC",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Quito",
+        "name": "Ecuador Sucre",
+        "code": "ECS"
+    },
+    {
+        "country": "Egypt",
+        "abbreviation": "EG",
+        "continent": "Africa",
+        "region": "Northern Africa",
+        "city": "Cairo",
+        "name": "Egyptian Pound",
+        "code": "EGP"
+    },
+    {
+        "country": "Eritrea",
+        "abbreviation": "ER",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Asmara",
+        "name": "Eritrean Nakfa",
+        "code": "ERN"
+    },
+    {
+        "country": "Estonia",
+        "abbreviation": "EE",
+        "continent": "Europe",
+        "region": "Baltic Countries",
+        "city": "Tallinn",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Ethiopia",
+        "abbreviation": "ET",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Addis Abeba",
+        "name": "Ethiopian Birr",
+        "code": "ETB"
+    },
+    {
+        "country": "Europe",
+        "abbreviation": "EU",
+        "continent": "Europe",
+        "region": "Europe",
+        "city": "Munich",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Finland",
+        "abbreviation": "FI",
+        "continent": "Europe",
+        "region": "Nordic Countries",
+        "city": "Helsinki [Helsingfors]",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "France",
+        "abbreviation": "FR",
+        "continent": "Europe",
+        "region": "Western Europe",
+        "city": "Paris",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Gabon",
+        "abbreviation": "GA",
+        "continent": "Africa",
+        "region": "Central Africa",
+        "city": "Libreville",
+        "name": "CFA Franc BEAC",
+        "code": "XAF"
+    },
+    {
+        "country": "Gambia",
+        "abbreviation": "GM",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Banjul",
+        "name": "Gambian Dalasi",
+        "code": "GMD"
+    },
+    {
+        "country": "Georgia",
+        "abbreviation": "GE",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Tbilisi",
+        "name": "Georgian Lari",
+        "code": "GEL"
+    },
+    {
+        "country": "Germany",
+        "abbreviation": "DE",
+        "continent": "Europe",
+        "region": "Western Europe",
+        "city": "Berlin",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Ghana",
+        "abbreviation": "GH",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Accra",
+        "name": "Ghanaian Cedi",
+        "code": "GHS"
+    },
+    {
+        "country": "Gibraltar",
+        "abbreviation": "GI",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Gibraltar",
+        "name": "Gibraltar Pound",
+        "code": "GIP"
+    },
+    {
+        "country": "Greece",
+        "abbreviation": "GR",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Athenai",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Greenland",
+        "abbreviation": "GL",
+        "continent": "North America",
+        "region": "North America",
+        "city": "Nuuk",
+        "name": "Danish Krone",
+        "code": "DKK"
+    },
+    {
+        "country": "Grenada",
+        "abbreviation": "GD",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "Saint George's",
+        "name": "East Carribean Dollar",
+        "code": "XCD"
+    },
+    {
+        "country": "Guatemala",
+        "abbreviation": "GT",
+        "continent": "North America",
+        "region": "Central America",
+        "city": "Ciudad de Guatemala",
+        "name": "Guatemalan Quetzal",
+        "code": "QTQ"
+    },
+    {
+        "country": "Guinea",
+        "abbreviation": "GN",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Conakry",
+        "name": "Guinea Franc",
+        "code": "GNF"
+    },
+    {
+        "country": "Guyana",
+        "abbreviation": "GY",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Georgetown",
+        "name": "Guyana Dollar",
+        "code": "GYD"
+    },
+    {
+        "country": "Haiti",
+        "abbreviation": "HT",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "Port-au-Prince",
+        "name": "Haitian Gourde",
+        "code": "HTG"
+    },
+    {
+        "country": "Honduras",
+        "abbreviation": "HN",
+        "continent": "North America",
+        "region": "Central America",
+        "city": "Tegucigalpa",
+        "name": "Honduran Lempira",
+        "code": "HNL"
+    },
+    {
+        "country": "Hungary",
+        "abbreviation": "HU",
+        "continent": "Europe",
+        "region": "Eastern Europe",
+        "city": "Budapest",
+        "name": "Hungarian Forint",
+        "code": "HUF"
+    },
+    {
+        "country": "Iceland",
+        "abbreviation": "IS",
+        "continent": "Europe",
+        "region": "Nordic Countries",
+        "city": "Reykjav",
+        "name": "Iceland Krona",
+        "code": "ISK"
+    },
+    {
+        "country": "India",
+        "abbreviation": "IN",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "New Delhi",
+        "name": "Indian Rupee",
+        "code": "INR"
+    },
+    {
+        "country": "Indonesia",
+        "abbreviation": "ID",
+        "continent": "Asia",
+        "region": "Southeast Asia",
+        "city": "Jakarta",
+        "name": "Indonesian Rupiah",
+        "code": "IDR"
+    },
+    {
+        "country": "Iran",
+        "abbreviation": "IR",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Teheran",
+        "name": "Iranian Rial",
+        "code": "IRR"
+    },
+    {
+        "country": "Iraq",
+        "abbreviation": "IQ",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Baghdad",
+        "name": "Iraqi Dinar",
+        "code": "IQD"
+    },
+    {
+        "country": "Ireland",
+        "abbreviation": "IE",
+        "continent": "Europe",
+        "region": "British Isles",
+        "city": "Dublin",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Israel",
+        "abbreviation": "IL",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Jerusalem",
+        "name": "Israeli New Shekel",
+        "code": "ILS"
+    },
+    {
+        "country": "Italy",
+        "abbreviation": "IT",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Roma",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Jamaica",
+        "abbreviation": "JM",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "Kingston",
+        "name": "Jamaican Dollar",
+        "code": "JMD"
+    },
+    {
+        "country": "Japan",
+        "abbreviation": "JP",
+        "continent": "Asia",
+        "region": "Eastern Asia",
+        "city": "Tokyo",
+        "name": "Japanese Yen",
+        "code": "JPY"
+    },
+    {
+        "country": "Jordan",
+        "abbreviation": "JO",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Amman",
+        "name": "Jordanian Dinar",
+        "code": "JOD"
+    },
+    {
+        "country": "Kenya",
+        "abbreviation": "KE",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Nairobi",
+        "name": "Kenyan Shilling",
+        "code": "KES"
+    },
+    {
+        "country": "Kiribati",
+        "abbreviation": "KI",
+        "continent": "Oceania",
+        "region": "Micronesia",
+        "city": "Bairiki",
+        "name": "Australian Dollar",
+        "code": "AUD"
+    },
+    {
+        "country": "Kuwait",
+        "abbreviation": "KW",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Kuwait",
+        "name": "Kuwaiti Dinar",
+        "code": "KWD"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "abbreviation": "KG",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Bishkek",
+        "name": "Som",
+        "code": "KGS"
+    },
+    {
+        "country": "Laos",
+        "abbreviation": "LA",
+        "continent": "Asia",
+        "region": "Southeast Asia",
+        "city": "Vientiane",
+        "name": "Lao Kip",
+        "code": "LAK"
+    },
+    {
+        "country": "Latvia",
+        "abbreviation": "LV",
+        "continent": "Europe",
+        "region": "Baltic Countries",
+        "city": "Riga",
+        "name": "Latvian Lats",
+        "code": "LVL"
+    },
+    {
+        "country": "Lebanon",
+        "abbreviation": "LB",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Beirut",
+        "name": "Lebanese Pound",
+        "code": "LBP"
+    },
+    {
+        "country": "Lesotho",
+        "abbreviation": "LS",
+        "continent": "Africa",
+        "region": "Southern Africa",
+        "city": "Maseru",
+        "name": "Lesotho Loti",
+        "code": "LSL"
+    },
+    {
+        "country": "Liberia",
+        "abbreviation": "LR",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Monrovia",
+        "name": "Liberian Dollar",
+        "code": "LRD"
+    },
+    {
+        "country": "Liechtenstein",
+        "abbreviation": "LI",
+        "continent": "Europe",
+        "region": "Western Europe",
+        "city": "Vaduz",
+        "name": "Swiss Franc",
+        "code": "CHF"
+    },
+    {
+        "country": "Lithuania",
+        "abbreviation": "LT",
+        "continent": "Europe",
+        "region": "Baltic Countries",
+        "city": "Vilnius",
+        "name": "Lithuanian Litas",
+        "code": "LTL"
+    },
+    {
+        "country": "Luxembourg",
+        "abbreviation": "LU",
+        "continent": "Europe",
+        "region": "Western Europe",
+        "city": "Luxembourg [Luxemburg\/L",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Macedonia",
+        "abbreviation": "MK",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Skopje",
+        "name": "Denar",
+        "code": "MKD"
+    },
+    {
+        "country": "Madagascar",
+        "abbreviation": "MG",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Antananarivo",
+        "name": "Malagasy Franc",
+        "code": "MGF"
+    },
+    {
+        "country": "Malawi",
+        "abbreviation": "MW",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Lilongwe",
+        "name": "Malawi Kwacha",
+        "code": "MWK"
+    },
+    {
+        "country": "Malaysia",
+        "abbreviation": "MY",
+        "continent": "Asia",
+        "region": "Southeast Asia",
+        "city": "Kuala Lumpur",
+        "name": "Malaysian Ringgit",
+        "code": "MYR"
+    },
+    {
+        "country": "Maldives",
+        "abbreviation": "MV",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Male",
+        "name": "Maldive Rufiyaa",
+        "code": "MVR"
+    },
+    {
+        "country": "Mali",
+        "abbreviation": "ML",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Bamako",
+        "name": "CFA Franc BCEAO",
+        "code": "XOF"
+    },
+    {
+        "country": "Malta",
+        "abbreviation": "MT",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Valletta",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Mauritania",
+        "abbreviation": "MR",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Nouakchott",
+        "name": "Mauritanian Ouguiya",
+        "code": "MRO"
+    },
+    {
+        "country": "Mauritius",
+        "abbreviation": "MU",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Port-Louis",
+        "name": "Mauritius Rupee",
+        "code": "MUR"
+    },
+    {
+        "country": "Mayotte",
+        "abbreviation": "YT",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Mamoutzou",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Mexico",
+        "abbreviation": "MX",
+        "continent": "North America",
+        "region": "Central America",
+        "city": "Ciudad de M",
+        "name": "Mexican Nuevo Peso",
+        "code": "MXN"
+    },
+    {
+        "country": "Moldova",
+        "abbreviation": "MD",
+        "continent": "Europe",
+        "region": "Eastern Europe",
+        "city": "Chisinau",
+        "name": "Moldovan Leu",
+        "code": "MDL"
+    },
+    {
+        "country": "Monaco",
+        "abbreviation": "MC",
+        "continent": "Europe",
+        "region": "Western Europe",
+        "city": "Monaco-Ville",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Mongolia",
+        "abbreviation": "MN",
+        "continent": "Asia",
+        "region": "Eastern Asia",
+        "city": "Ulan Bator",
+        "name": "Mongolian Tugrik",
+        "code": "MNT"
+    },
+    {
+        "country": "Montserrat",
+        "abbreviation": "MS",
+        "continent": "North America",
+        "region": "Caribbean",
+        "city": "Plymouth",
+        "name": "East Caribbean Dollar",
+        "code": "XCD"
+    },
+    {
+        "country": "Morocco",
+        "abbreviation": "MA",
+        "continent": "Africa",
+        "region": "Northern Africa",
+        "city": "Rabat",
+        "name": "Moroccan Dirham",
+        "code": "MAD"
+    },
+    {
+        "country": "Mozambique",
+        "abbreviation": "MZ",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Maputo",
+        "name": "Mozambique Metical",
+        "code": "MZN"
+    },
+    {
+        "country": "Myanmar",
+        "abbreviation": "MM",
+        "continent": "Asia",
+        "region": "Southeast Asia",
+        "city": "Rangoon (Yangon)",
+        "name": "Myanmar Kyat",
+        "code": "MMK"
+    },
+    {
+        "country": "Namibia",
+        "abbreviation": "NA",
+        "continent": "Africa",
+        "region": "Southern Africa",
+        "city": "Windhoek",
+        "name": "Namibian Dollar",
+        "code": "NAD"
+    },
+    {
+        "country": "Nauru",
+        "abbreviation": "NR",
+        "continent": "Oceania",
+        "region": "Micronesia",
+        "city": "Yaren",
+        "name": "Australian Dollar",
+        "code": "AUD"
+    },
+    {
+        "country": "Nepal",
+        "abbreviation": "NP",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Kathmandu",
+        "name": "Nepalese Rupee",
+        "code": "NPR"
+    },
+    {
+        "country": "Netherlands",
+        "abbreviation": "NL",
+        "continent": "Europe",
+        "region": "Western Europe",
+        "city": "Amsterdam",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Nicaragua",
+        "abbreviation": "NI",
+        "continent": "North America",
+        "region": "Central America",
+        "city": "Managua",
+        "name": "Nicaraguan Cordoba Oro",
+        "code": "NIO"
+    },
+    {
+        "country": "Niger",
+        "abbreviation": "NE",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Niamey",
+        "name": "CFA Franc BCEAO",
+        "code": "XOF"
+    },
+    {
+        "country": "Nigeria",
+        "abbreviation": "NG",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Abuja",
+        "name": "Nigerian Naira",
+        "code": "NGN"
+    },
+    {
+        "country": "Niue",
+        "abbreviation": "NU",
+        "continent": "Oceania",
+        "region": "Polynesia",
+        "city": "Alofi",
+        "name": "New Zealand Dollar",
+        "code": "NZD"
+    },
+    {
+        "country": "Norway",
+        "abbreviation": "NO",
+        "continent": "Europe",
+        "region": "Nordic Countries",
+        "city": "Oslo",
+        "name": "Norwegian Krone",
+        "code": "NOK"
+    },
+    {
+        "country": "Oman",
+        "abbreviation": "OM",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Masqat",
+        "name": "Omani Rial",
+        "code": "OMR"
+    },
+    {
+        "country": "Pakistan",
+        "abbreviation": "PK",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Islamabad",
+        "name": "Pakistan Rupee",
+        "code": "PKR"
+    },
+    {
+        "country": "Palau",
+        "abbreviation": "PW",
+        "continent": "Oceania",
+        "region": "Micronesia",
+        "city": "Koror",
+        "name": "US Dollar",
+        "code": "USD"
+    },
+    {
+        "country": "Panama",
+        "abbreviation": "PA",
+        "continent": "North America",
+        "region": "Central America",
+        "city": "Ciudad de Panam",
+        "name": "Panamanian Balboa",
+        "code": "PAB"
+    },
+    {
+        "country": "Paraguay",
+        "abbreviation": "PY",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Asunci",
+        "name": "Paraguay Guarani",
+        "code": "PYG"
+    },
+    {
+        "country": "Peru",
+        "abbreviation": "PE",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Lima",
+        "name": "Peruvian Nuevo Sol",
+        "code": "PEN"
+    },
+    {
+        "country": "Philippines",
+        "abbreviation": "PH",
+        "continent": "Asia",
+        "region": "Southeast Asia",
+        "city": "Manila",
+        "name": "Philippine Peso",
+        "code": "PHP"
+    },
+    {
+        "country": "Poland",
+        "abbreviation": "PL",
+        "continent": "Europe",
+        "region": "Eastern Europe",
+        "city": "Warszawa",
+        "name": "Polish Zloty",
+        "code": "PLN"
+    },
+    {
+        "country": "Portugal",
+        "abbreviation": "PT",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Lisboa",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Qatar",
+        "abbreviation": "QA",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Doha",
+        "name": "Qatari Rial",
+        "code": "QAR"
+    },
+    {
+        "country": "Romania",
+        "abbreviation": "RO",
+        "continent": "Europe",
+        "region": "Eastern Europe",
+        "city": "Bucuresti",
+        "name": "Romanian New Leu",
+        "code": "RON"
+    },
+    {
+        "country": "Rwanda",
+        "abbreviation": "RW",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Kigali",
+        "name": "Rwanda Franc",
+        "code": "RWF"
+    },
+    {
+        "country": "Samoa",
+        "abbreviation": "WS",
+        "continent": "Oceania",
+        "region": "Polynesia",
+        "city": "Apia",
+        "name": "Samoan Tala",
+        "code": "WST"
+    },
+    {
+        "country": "Senegal",
+        "abbreviation": "SN",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Dakar",
+        "name": "CFA Franc BCEAO",
+        "code": "XOF"
+    },
+    {
+        "country": "Seychelles",
+        "abbreviation": "SC",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Victoria",
+        "name": "Seychelles Rupee",
+        "code": "SCR"
+    },
+    {
+        "country": "Singapore",
+        "abbreviation": "SG",
+        "continent": "Asia",
+        "region": "Southeast Asia",
+        "city": "Singapore",
+        "name": "Singapore Dollar",
+        "code": "SGD"
+    },
+    {
+        "country": "Slovakia",
+        "abbreviation": "SK",
+        "continent": "Europe",
+        "region": "Eastern Europe",
+        "city": "Bratislava",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Slovenia",
+        "abbreviation": "SI",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Ljubljana",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Somalia",
+        "abbreviation": "SO",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Mogadishu",
+        "name": "Somali Shilling",
+        "code": "SOS"
+    },
+    {
+        "country": "Spain",
+        "abbreviation": "ES",
+        "continent": "Europe",
+        "region": "Southern Europe",
+        "city": "Madrid",
+        "name": "Euro",
+        "code": "EUR"
+    },
+    {
+        "country": "Sudan",
+        "abbreviation": "SD",
+        "continent": "Africa",
+        "region": "Northern Africa",
+        "city": "Khartum",
+        "name": "Sudanese Pound",
+        "code": "SDG"
+    },
+    {
+        "country": "Suriname",
+        "abbreviation": "SR",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Paramaribo",
+        "name": "Surinam Dollar",
+        "code": "SRD"
+    },
+    {
+        "country": "Swaziland",
+        "abbreviation": "SZ",
+        "continent": "Africa",
+        "region": "Southern Africa",
+        "city": "Mbabane",
+        "name": "Swaziland Lilangeni",
+        "code": "SZL"
+    },
+    {
+        "country": "Sweden",
+        "abbreviation": "SE",
+        "continent": "Europe",
+        "region": "Nordic Countries",
+        "city": "Stockholm",
+        "name": "Swedish Krona",
+        "code": "SEK"
+    },
+    {
+        "country": "Switzerland",
+        "abbreviation": "CH",
+        "continent": "Europe",
+        "region": "Western Europe",
+        "city": "Bern",
+        "name": "Swiss Franc",
+        "code": "CHF"
+    },
+    {
+        "country": "Syria",
+        "abbreviation": "SY",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Damascus",
+        "name": "Syrian Pound",
+        "code": "SYP"
+    },
+    {
+        "country": "Tajikistan",
+        "abbreviation": "TJ",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Dushanbe",
+        "name": "Tajik Somoni",
+        "code": "TJS"
+    },
+    {
+        "country": "Tanzania",
+        "abbreviation": "TZ",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Dodoma",
+        "name": "Tanzanian Shilling",
+        "code": "TZS"
+    },
+    {
+        "country": "Thailand",
+        "abbreviation": "TH",
+        "continent": "Asia",
+        "region": "Southeast Asia",
+        "city": "Bangkok",
+        "name": "Thai Baht",
+        "code": "THB"
+    },
+    {
+        "country": "Togo",
+        "abbreviation": "TG",
+        "continent": "Africa",
+        "region": "Western Africa",
+        "city": "Lom",
+        "name": "CFA Franc BCEAO",
+        "code": "XOF"
+    },
+    {
+        "country": "Tokelau",
+        "abbreviation": "TK",
+        "continent": "Oceania",
+        "region": "Polynesia",
+        "city": "Fakaofo",
+        "name": "New Zealand Dollar",
+        "code": "NZD"
+    },
+    {
+        "country": "Tonga",
+        "abbreviation": "TO",
+        "continent": "Oceania",
+        "region": "Polynesia",
+        "city": "Nuku'alofa",
+        "name": "Tongan Pa'anga",
+        "code": "TOP"
+    },
+    {
+        "country": "Tunisia",
+        "abbreviation": "TN",
+        "continent": "Africa",
+        "region": "Northern Africa",
+        "city": "Tunis",
+        "name": "Tunisian Dollar",
+        "code": "TND"
+    },
+    {
+        "country": "Turkey",
+        "abbreviation": "TR",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Ankara",
+        "name": "Turkish Lira",
+        "code": "TRY"
+    },
+    {
+        "country": "Turkmenistan",
+        "abbreviation": "TM",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Ashgabat",
+        "name": "Manat",
+        "code": "TMT"
+    },
+    {
+        "country": "Tuvalu",
+        "abbreviation": "TV",
+        "continent": "Oceania",
+        "region": "Polynesia",
+        "city": "Funafuti",
+        "name": "Australian Dollar",
+        "code": "AUD"
+    },
+    {
+        "country": "Uganda",
+        "abbreviation": "UG",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Kampala",
+        "name": "Uganda Shilling",
+        "code": "UGX"
+    },
+    {
+        "country": "Ukraine",
+        "abbreviation": "UA",
+        "continent": "Europe",
+        "region": "Eastern Europe",
+        "city": "Kyiv",
+        "name": "Ukraine Hryvnia",
+        "code": "UAH"
+    },
+    {
+        "country": "United State Of America",
+        "abbreviation": "US",
+        "continent": "North America",
+        "region": "North America",
+        "city": "Washington",
+        "name": "US Dollar",
+        "code": "USD"
+    },
+    {
+        "country": "Uruguay",
+        "abbreviation": "UY",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Montevideo",
+        "name": "Uruguayan Peso",
+        "code": "UYU"
+    },
+    {
+        "country": "Uzbekistan",
+        "abbreviation": "UZ",
+        "continent": "Asia",
+        "region": "Southern and Central Asia",
+        "city": "Toskent",
+        "name": "Uzbekistan Sum",
+        "code": "UZS"
+    },
+    {
+        "country": "Vanuatu",
+        "abbreviation": "VU",
+        "continent": "Oceania",
+        "region": "Melanesia",
+        "city": "Port-Vila",
+        "name": "Vanuatu Vatu",
+        "code": "VUV"
+    },
+    {
+        "country": "Venezuela",
+        "abbreviation": "VE",
+        "continent": "South America",
+        "region": "South America",
+        "city": "Caracas",
+        "name": "Venezuelan Bolivar",
+        "code": "VEF"
+    },
+    {
+        "country": "Vietnam",
+        "abbreviation": "VN",
+        "continent": "Asia",
+        "region": "Southeast Asia",
+        "city": "Hanoi",
+        "name": "Vietnamese Dong",
+        "code": "VND"
+    },
+    {
+        "country": "Yemen",
+        "abbreviation": "YE",
+        "continent": "Asia",
+        "region": "Middle East",
+        "city": "Sanaa",
+        "name": "Yemeni Rial",
+        "code": "YER"
+    },
+    {
+        "country": "Zambia",
+        "abbreviation": "ZM",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Lusaka",
+        "name": "Zambian Kwacha",
+        "code": "ZMW"
+    },
+    {
+        "country": "Zimbabwe",
+        "abbreviation": "ZW",
+        "continent": "Africa",
+        "region": "Eastern Africa",
+        "city": "Harare",
+        "name": "Zimbabwe Dollar",
+        "code": "ZWD"
+    }
+]
